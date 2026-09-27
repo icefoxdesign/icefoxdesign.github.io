@@ -6,5 +6,5 @@ medida para automatizar trabajo administrativo.
 Una sola página, sin dependencias ni compilación: `index.html` lleva los estilos, el guion y
 las imágenes adentro. Las únicas fuentes externas son las tipografías de Google Fonts.
 
-**🌐 En vivo:** [[https://[icefoxdesign.github.io//](https://icefoxdesign.github.io/)]
+**🌐 En vivo:** [https://[icefoxdesign.github.io//](https://icefoxdesign.github.io/)]
 
