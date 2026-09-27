@@ -18,7 +18,8 @@ En <https://github.com/new>, **con la cuenta `icefoxdesign`** (no con FinochioAd
 ## 2. Subir los archivos
 
 En la pantalla de «Quick setup» → **uploading an existing file** → abrí el Explorador en esta
-carpeta → `Ctrl + A` → arrastrá todo a la ventana → abajo escribí `Sitio de Ice Fox Design`
+carpeta → `Ctrl + A` → arrastrá todo a la ventana, **incluida la carpeta `img`** (GitHub respeta
+las carpetas al arrastrar) → abajo escribí `Sitio de Ice Fox Design`
 → **Commit changes**.
 
 ## 3. Verificar Pages
